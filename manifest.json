@@ -3,7 +3,7 @@
 
   "name": "Ermahgerd, Sterff!",
   "description": "This extension herp derps comments on stuff.co.nz.",
-  "version": "5.2",
+  "version": "6.0",
 
   "permissions": [
     "http://www.stuff.co.nz/",
